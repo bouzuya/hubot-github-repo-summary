@@ -1,6 +1,6 @@
 {
   "name": "hubot-github-repo-summary",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script to count the specified repository commits",
   "main": "index.js",
   "scripts": {
